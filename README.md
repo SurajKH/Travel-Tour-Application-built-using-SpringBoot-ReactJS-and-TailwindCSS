@@ -15,6 +15,9 @@ TouristEntity
 
 AuthenticationEntity
 
+3.Creation of Repository:
+
+
 4.Creation of Controllers:
 
 TourManagerController
