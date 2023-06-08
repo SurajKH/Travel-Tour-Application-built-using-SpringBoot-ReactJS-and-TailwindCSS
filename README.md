@@ -20,3 +20,5 @@ AuthenticationEntity
 TourManagerController
 
 TouristController
+
+AuthenticationController
