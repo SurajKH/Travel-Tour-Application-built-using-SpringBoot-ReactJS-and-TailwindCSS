@@ -15,3 +15,5 @@ TouristEntity
 
 AuthenticationEntity
 
+3.Creation of Controllers:
+
