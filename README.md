@@ -13,9 +13,7 @@ TouristEntity
 
 AuthenticationEntity
 
-3.Creation of Repository:TourManagerEntityRepository
-
-TouristEntityRepository
+3.Creation of Repository:TourManagerEntityRepository,TouristEntityRepository
 
 AuthenticationEntityRepository
 
