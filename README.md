@@ -3,6 +3,8 @@ Adventour - A Travel Application built using SpringBoot,ReactJS and TailwindCSS
 
 FrontEnd Setup: ReactJS,TailWindCSS
 
+1.Rendering the Data from the backend Application.
+
 Backend Setup: Springboot 
 
 1.Following of an Spring MVC Architecture.
