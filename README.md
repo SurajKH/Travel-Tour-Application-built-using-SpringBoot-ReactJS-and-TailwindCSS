@@ -7,9 +7,7 @@ Backend Setup: Springboot
 
 1.Following of an Spring MVC Architecture.
 
-2.Creation of Entity:TourManagerEntity
-
-TouristEntity
+2.Creation of Entity:TourManagerEntity,TouristEntity
 
 AuthenticationEntity
 
