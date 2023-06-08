@@ -9,7 +9,7 @@ Backend Setup: Springboot
 
 2.Creation of Entity:
 
-TravelEntity
-
+TourManagerEntity
+TouristEntity
 AuthenticationEntity
 
