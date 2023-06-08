@@ -7,6 +7,8 @@ FrontEnd Setup: ReactJS,TailWindCSS
 
 2.Creation of Different Page Views by using the concept of React-Router-DOM.
 
+3.Utilization of TailwindCSS to enhance the UI part of the Application.
+
 Backend Setup: Springboot 
 
 1.Following of an Spring MVC Architecture.
