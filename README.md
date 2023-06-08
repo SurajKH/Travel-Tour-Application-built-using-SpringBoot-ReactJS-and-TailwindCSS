@@ -5,7 +5,7 @@ FrontEnd Setup: ReactJS,TailWindCSS
 
 1.Rendering the Data from the backend Application by utilizing the concept of Axios.
 
-2.Creation of Different Page Views by using the concept of React-Router-DOM,
+2.Creation of Different Page Views by using the concept of React-Router-DOM.
 
 Backend Setup: Springboot 
 
