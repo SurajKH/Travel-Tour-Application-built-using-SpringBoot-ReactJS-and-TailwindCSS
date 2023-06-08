@@ -17,3 +17,5 @@ AuthenticationEntity
 
 3.Creation of Controllers:
 
+TourManagerController
+
