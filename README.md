@@ -17,8 +17,6 @@ TourManagerEntityRepository,TouristEntityRepository,AuthenticationEntityReposito
 
 4.Creation of Controllers:
 
-TourManagerController
-
-TouristController
+TourManagerController,TouristController
 
 AuthenticationController
