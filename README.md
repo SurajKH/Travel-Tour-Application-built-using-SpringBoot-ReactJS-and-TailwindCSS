@@ -17,6 +17,11 @@ AuthenticationEntity
 
 3.Creation of Repository:
 
+TourManagerEntityRepository
+
+TouristEntityRepository
+
+AuthenticationEntityRepository
 
 4.Creation of Controllers:
 
