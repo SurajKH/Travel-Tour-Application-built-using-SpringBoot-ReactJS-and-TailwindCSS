@@ -8,7 +8,7 @@ Frontend:
 
 
 
-FrontEnd Setup:
+Frontend Setup:
 
 ReactJS,TailWindCSS
 
