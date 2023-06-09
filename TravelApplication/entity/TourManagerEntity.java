@@ -14,50 +14,49 @@ import lombok.NoArgsConstructor;
 @Builder
 @Data
 @Entity
-@Table(name="tourmanager_entity_table")
+@Table(name="tour_manager_table")
 public class TourManagerEntity {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
-	private Long TourManagerID;
+	private Long Tourmanagerid;
 	
-	private String TourManagerCompanyName;
+	private String Tourmanagercompanyname;
 	
-	private Long TourManagerYearOfExperience;
+	private Long Tourmanageryearofexperience;
 	
-	private String TourManagerRating;
-	
+	private String Tourmanagerating;
 
-	public Long getTourManagerID() {
-		return TourManagerID;
+	public Long getTourmanagerid() {
+		return Tourmanagerid;
 	}
 
-	public void setTourManagerID(Long tourManagerID) {
-		TourManagerID = tourManagerID;
+	public void setTourmanagerid(Long tourmanagerid) {
+		Tourmanagerid = tourmanagerid;
 	}
 
-	public String getTourManagerCompanyName() {
-		return TourManagerCompanyName;
+	public String getTourmanagercompanyname() {
+		return Tourmanagercompanyname;
 	}
 
-	public void setTourManagerCompanyName(String tourManagerCompanyName) {
-		TourManagerCompanyName = tourManagerCompanyName;
+	public void setTourmanagercompanyname(String tourmanagercompanyname) {
+		Tourmanagercompanyname = tourmanagercompanyname;
 	}
 
-	public Long getTourManagerYearOfExperience() {
-		return TourManagerYearOfExperience;
+	public Long getTourmanageryearofexperience() {
+		return Tourmanageryearofexperience;
 	}
 
-	public void setTourManagerYearOfExperience(Long tourManagerYearOfExperience) {
-		TourManagerYearOfExperience = tourManagerYearOfExperience;
+	public void setTourmanageryearofexperience(Long tourmanageryearofexperience) {
+		Tourmanageryearofexperience = tourmanageryearofexperience;
 	}
 
-	public String getTourManagerRating() {
-		return TourManagerRating;
+	public String getTourmanagerating() {
+		return Tourmanagerating;
 	}
 
-	public void setTourManagerRating(String tourManagerRating) {
-		TourManagerRating = tourManagerRating;
+	public void setTourmanagerating(String tourmanagerating) {
+		Tourmanagerating = tourmanagerating;
 	}
 	
 }
