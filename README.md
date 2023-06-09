@@ -11,7 +11,9 @@ ReactJS,TailWindCSS
 
 3.Utilization of TailwindCSS to enhance the UI(User Interface) part of the Application.
 
-Backend Setup: Springboot 
+Backend Setup: 
+
+Springboot 
 
 1.Following of an Spring MVC Architecture.
 
