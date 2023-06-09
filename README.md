@@ -13,7 +13,7 @@ ReactJS,TailWindCSS
 
 Backend Setup: 
 
-Springboot 
+Springboot,MySQL
 
 1.Following of an Spring MVC Architecture.
 
