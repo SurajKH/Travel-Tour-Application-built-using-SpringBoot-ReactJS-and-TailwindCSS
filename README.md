@@ -5,7 +5,7 @@ Tech Stack:
 
 Frontend:ReactJS,TailwindCSS
 
-Backend:
+Backend:Springboot,MySQL
 
 
 Frontend Setup:
