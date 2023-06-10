@@ -20,7 +20,7 @@ ReactJS,TailWindCSS
 
 4.Implement Payment Configuration.
 
-Future Scope:Send a Successfull Message to the User after booking the tour using the TwilioAPI.
+5.Future Scope:Send a Successfull Message to the User after booking the tour using the TwilioAPI.
 
 
 Backend Setup: 
