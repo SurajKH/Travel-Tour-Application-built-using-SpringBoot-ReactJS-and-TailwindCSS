@@ -28,6 +28,9 @@ Generation of Summary of Tour Order.
 
 Discount Based on Coupon Selection.
 
+Give an Option to download the Summary Details by using the concept of download file options.
+
+
 Backend Setup: 
 
 Springboot,MySQL
