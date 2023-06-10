@@ -18,6 +18,8 @@ ReactJS,TailWindCSS
 
 3.Utilization of TailwindCSS to enhance the UI(User Interface) part of the Application.
 
+4.Generation of Summary along with Total Tour Cost based on User Selection.
+
 4.Implement Payment Configuration.
 
 5.Future Scope:
