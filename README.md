@@ -24,7 +24,9 @@ ReactJS,TailWindCSS
 
 6.Payment Options for Users using react-paypal configuration.
 
-7.Display Statistics using the concept of Doughnut Chart,Line Chart.
+7.Display Statistics such as Category wise (Adventure,Medical,Pilgrimage) using the concept of Doughnut Chart,Line Chart.
+
+8.
 
 
 5.Future Scope:
