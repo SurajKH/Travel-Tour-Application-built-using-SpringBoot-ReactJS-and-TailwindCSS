@@ -25,6 +25,7 @@ ReactJS,TailWindCSS
 Send a Successfull Message to the User after booking the tour using the TwilioAPI.
 
 Generation of Summary of Tour Order.
+
 Discount Based on Coupon Selection.
 
 Backend Setup: 
