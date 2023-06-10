@@ -36,6 +36,8 @@ Progress so far:
 
 2.Creation of TourManagerEntity,TouristEntity.
 
+3.Creation of TourManagerController,TouristController
+
 1.Following of an Spring MVC Architecture.
 
 2.Creation of Entity:
