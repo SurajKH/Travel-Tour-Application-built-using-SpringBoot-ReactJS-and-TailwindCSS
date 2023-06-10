@@ -3,7 +3,7 @@ Adventour - A Travel Application built using SpringBoot,ReactJS,MySQL and Tailwi
 
 Tech Stack:
 
-Frontend:(ReactJS,TailwindCSS) along with Icon Utility 
+Frontend:(ReactJS,TailwindCSS) along with Icon Utility Packages such as react-icons
 
 Backend:(Springboot,MySQL)
 
