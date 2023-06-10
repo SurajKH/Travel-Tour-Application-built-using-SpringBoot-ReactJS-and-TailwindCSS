@@ -33,6 +33,7 @@ Springboot,MySQL
 Progress so far:
 
 1.Consideration of Spring MVC Architecture.
+2.
 
 1.Following of an Spring MVC Architecture.
 
