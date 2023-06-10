@@ -24,9 +24,8 @@ ReactJS,TailWindCSS
 
 6.Payment Options for Users using react-paypal configuration.
 
+7.Display Statistics using the concept of Doughnut Chart.
 
-
-Implement Payment Configuration.
 
 5.Future Scope:
 
