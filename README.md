@@ -20,6 +20,9 @@ ReactJS,TailWindCSS
 
 4.Generation of Summary along with Total Tour Cost based on User Selection.
 
+5.Summary Download Feature for Users.
+
+
 4.Implement Payment Configuration.
 
 5.Future Scope:
