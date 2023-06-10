@@ -22,7 +22,7 @@ ReactJS,TailWindCSS
 
 5.Summary Download Feature for Users.
 
-
+6.Payment Options for Users using react-paypal configuration.
 
 
 
