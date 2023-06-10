@@ -19,6 +19,8 @@ ReactJS,TailWindCSS
 3.Utilization of TailwindCSS to enhance the UI(User Interface) part of the Application.
 
 4.Implement Payment Configuration.
+
+
 Backend Setup: 
 
 Springboot,MySQL
