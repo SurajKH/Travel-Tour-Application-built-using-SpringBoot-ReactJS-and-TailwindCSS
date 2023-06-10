@@ -23,7 +23,10 @@ ReactJS,TailWindCSS
 5.Summary Download Feature for Users.
 
 
-4.Implement Payment Configuration.
+
+
+
+Implement Payment Configuration.
 
 5.Future Scope:
 
