@@ -49,6 +49,9 @@ Progress so far:
 
 TourManagerEntity,TouristEntity,AuthenticationEntity
 
+Concept of Utilization of OneToOne Mapping.
+
+
 3.Creation of Repository:
 
 TourManagerEntityRepository,TouristEntityRepository,AuthenticationEntityRepository
