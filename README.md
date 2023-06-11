@@ -22,7 +22,7 @@ When ever users without Admin Privileges tries to access the application then it
 
 3.Book a New Tour View:
 
-users can book a new tour by making appropriate selections for different input fields.
+Users can book a new tour by making appropriate selections for different input fields.
 
 
 
