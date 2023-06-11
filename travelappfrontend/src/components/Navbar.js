@@ -1,5 +1,9 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import DisplayTourManagers from './DisplayTourManagers';
+import HomePage from './HomePage';
+import TourBooking from './TourBooking';
+import Error404Page from './Error404Page';
 
 //we are able to consider the linking phase over here
 const Navbar = () => {
@@ -41,6 +45,16 @@ const Navbar = () => {
       <Route path='/AboutUs' element={<About/>}></Route>
       <Route path='/ErrorPage' element={<Error404/>}></Route>
     </Routes> */}
+
+    <Routes>
+    <Route path='/' exact element={<HomePage/>}></Route>
+      {/* <Route path='/TourManagers' element={<DisplayTourManagers/>}></Route> */}
+      <Route path='/BookTour' element={<TourBooking/>}>
+      </Route>
+      <Route path="/TourManagers" element={<DisplayTourManagers/>}></Route>
+      <Route path="/ErrorPage" element={<Error404Page/>}></Route>
+      <Route path="/TourAnalytics" element={<TourAnalytics/>}></Route>
+      </Routes>
     </BrowserRouter>
     </React.Fragment>
   )
