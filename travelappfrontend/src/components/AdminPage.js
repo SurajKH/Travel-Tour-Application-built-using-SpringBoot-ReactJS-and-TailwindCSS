@@ -25,13 +25,8 @@ const AdminView = () => {
        const handleSubmit=(e)=>
        {
         e.preventDefault();
-        //we are considering a validate function instance.
-
         if(username==admin_username && admin_password==userPassword && stateView=="AllTourManagers")
         {
-           // console.log("Authentication Successfull");
-           //now lets redirect to a new Page.
-         
           navigate('/TourManagers');
 
         }
