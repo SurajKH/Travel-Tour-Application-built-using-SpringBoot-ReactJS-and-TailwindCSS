@@ -24,6 +24,10 @@ When ever users without Admin Privileges tries to access the application then it
 
 Users can book a new tour by making appropriate selections for different input fields.
 
+<img width="1439" alt="Screenshot 2023-06-11 at 5 33 15 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/e9a71a08-221a-468f-8783-215c57c67bdb">
+
+
+
 4.Tour Summary Generation:
 
 
