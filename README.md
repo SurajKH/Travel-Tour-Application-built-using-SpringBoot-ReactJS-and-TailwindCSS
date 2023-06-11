@@ -40,3 +40,8 @@ Users can book a new tour by making appropriate selections for different input f
 
 
 <img width="1435" alt="Screenshot 2023-06-11 at 5 32 45 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/ad55e40f-683e-4537-94aa-0183ef3dc590">
+
+7.Visualizations:
+
+<img width="1440" alt="Screenshot 2023-06-11 at 5 19 35 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/96c8ef78-aee7-4945-a363-163b795b3630">
+
