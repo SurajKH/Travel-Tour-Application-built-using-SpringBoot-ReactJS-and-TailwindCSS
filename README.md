@@ -38,6 +38,8 @@ Tour Summary Generation based on thr selection of parameters like Tour Mentor Ra
 
 5.Updated Tour Summary:
 
+Updation of Tour Summary using thr concept of Discount Coupon Generation.
+
 <img width="903" alt="Screenshot 2023-06-11 at 5 35 19 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/7bcd42c1-3e23-4269-9603-5b4ee5d5a52b">
 
 
