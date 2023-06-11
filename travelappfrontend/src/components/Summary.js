@@ -7,13 +7,10 @@ import Discount from './Discount';
 //Summary Component.
 const Summary = ({PackageType,tourManagerYearOfExperience,tourManagerRating}) => {
 
-  //  console.log(PackageType);
-
-    //now we need to setup the logic for Total Cost for the Trip.
-
-    const [packageCost,setPackageCost]=useState('');
+  
+ const [packageCost,setPackageCost]=useState('');
  // const [tourMentorCost,setTourMentorCost]=useState(0);
-  const [totalCost,setTotalCost]=useState(0);
+ const [totalCost,setTotalCost]=useState(0);
  const [generateSummary,setGenerateSummary]=useState(false);
 
  const tourManagerRatingFloat=parseFloat(tourManagerRating);
