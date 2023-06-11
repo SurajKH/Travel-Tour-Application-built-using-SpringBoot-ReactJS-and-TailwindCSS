@@ -9,9 +9,7 @@ const Discount = ({PackageType,tourManagerYearOfExperience,tourManagerRating,tou
     const [genDiscount,setgenDiscount]=useState(false);
 
    const [tourCost,setTourCost]=useState(0);
-  // setTourCost(tourManagerCost);
-
-   //console.log("Tour Cost is: ",tourCost);
+  
 
  const couponmap=new Map();
  var arr=[1,2,3];
