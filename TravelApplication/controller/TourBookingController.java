@@ -15,6 +15,7 @@ import com.example.demo.repository.TourBookingRepository;
 
 @RestController
 @RequestMapping("/newtourBooking")
+@CrossOrigin("http:/localhost:3000")
 public class TourBookingController {
 
 	@Autowired
