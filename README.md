@@ -29,5 +29,6 @@ Users can book a new tour by making appropriate selections for different input f
 
 4.Tour Summary Generation:
 
+<img width="1418" alt="Screenshot 2023-06-11 at 5 33 46 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/d9006e34-8bb3-4f30-8a90-6c80f37b4e5e">
 
 
