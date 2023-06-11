@@ -45,6 +45,10 @@ Updation of Tour Summary using thr concept of Discount Coupon Generation.
 
 6.About Us:
 
+
+About Us page provides a brief overview of the Application.
+
+
 <img width="1435" alt="Screenshot 2023-06-11 at 5 32 45 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/341d8013-2a3e-4ae2-900f-6a096c8c18b2">
 
 7.Visualizations:
