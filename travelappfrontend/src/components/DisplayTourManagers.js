@@ -24,28 +24,8 @@ const DisplayTourManagers=()=>
        loadData();
     },[]);
 
-    //
     return(
         <React.Fragment>
-        
-        {/*{
-            tourManager.map((tourData)=>(
-                <>
-                <li>
-                    Tour Manager ID: {tourData.tourmanagerid} 
-                    </li>
-
-                    <li>
-                        Tour Manager Rating:{tourData.tourmanagerating}
-                        </li>
-                        
-                        <li>Tour Manager Company:{tourData.tourmanagercompanyname}</li>
-                        <li>Tour Manager Year of Experience {tourData.tourmanageryearofexperience}
-                    </li>
-                </>
-               
-            ))
-        }*/}
 
         <div class="grid grid-cols-4 gap-4">
         {
