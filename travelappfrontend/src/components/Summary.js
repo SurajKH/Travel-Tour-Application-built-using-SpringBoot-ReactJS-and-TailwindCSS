@@ -144,11 +144,6 @@ const Summary = ({PackageType,tourManagerYearOfExperience,tourManagerRating}) =>
        </div>
       </>:<></>
     }
-
-    {/*
-    Now we need to Consider Payment Options.
-    */}
-    
     <Discount PackageType={PackageType}
         tourManagerYearOfExperience={tourManagerYearOfExperience}
         tourManagerRating={tourManagerRating}
