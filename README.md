@@ -16,6 +16,13 @@ Here the Users with the Admin Priveleges can access  the application and can pro
 
 2.Error Page:
 
-When ever Users without Admin Privileges tries to access the application then it redirects them to the Error Page.
+When ever users without Admin Privileges tries to access the application then it redirects them to the Error Page.
 
 <img width="1440" alt="Screenshot 2023-06-11 at 5 36 31 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/1a7e5164-f34e-47c7-b23e-d66013c12d02">
+
+3.Book a New Tour View:
+
+users can book a new tour by making appropriate selections for different input fields.
+
+
+
