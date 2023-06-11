@@ -1,5 +1,5 @@
 # Travel-Tour-Application-built-using-SpringBoot-ReactJS-MySQL-and-TailwindCSS
-Adventour - A Travel Application built using SpringBoot,ReactJS,MySQL and TailwindCSS.
+Adventour - A Travel Tour Application built using SpringBoot,ReactJS,MySQL and TailwindCSS.
 
 Tech Stack:
 
