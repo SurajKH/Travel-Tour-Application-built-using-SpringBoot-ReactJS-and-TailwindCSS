@@ -11,6 +11,7 @@ Backend:(Springboot,MySQL)
 
 Here the Users with the Admin Priveleges can access  the application and can proceed to select Different Views such as About Us View,Tour Statistics View,Book a new Tour.
 
+<img width="1440" alt="Screenshot 2023-06-11 at 5 38 02 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/b709ffb7-c618-43b7-b83d-06c971f955cc">
 
 
 
