@@ -13,9 +13,6 @@ backgroundSize:'cover',backgroundRepeat: 'no-repeat',
 width: '100vw',
         height: '100vh'
  }}>
- {/*
- Designing of Admin Page using the flex property.
- */}
  <AdminPage/>
        </div>
     </React.Fragment>
