@@ -26,10 +26,8 @@ ReactJS,TailWindCSS
 
 7.Display Statistics such as Category wise (Adventure,Medical,Pilgrimage) using the concept of Doughnut Chart,Line Chart.
 
-8.
 
-
-5.Future Scope:
+8.Future Scope:
 
 Send a Successfull Message to the User after booking the tour using the TwilioAPI.
 
