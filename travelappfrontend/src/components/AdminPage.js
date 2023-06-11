@@ -96,7 +96,7 @@ const AdminView = () => {
    }}>
       <option selected value="AllTourManagers">Available Tour Managers</option>
       <option value="TourStatistics">Tour Statistics(Year Wise Performance)</option>
-      <option value="BookTour">Book a Tour(Selection Categories:All available tour managers,package discount,Stay facilities etc.) (tour payment configuration  via Phone).</option>
+      <option value="BookTour">Book a New Tour.</option>
       <option value="AboutView">About Us</option>
 
        </select>
