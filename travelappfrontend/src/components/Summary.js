@@ -5,7 +5,6 @@ import TabularSummary from './TabularSummary';
 import Discount from './Discount';
 
 //Summary Component.
-//Lets Define a Card Template.
 const Summary = ({PackageType,tourManagerYearOfExperience,tourManagerRating}) => {
 
   //  console.log(PackageType);
