@@ -39,6 +39,4 @@ Users can book a new tour by making appropriate selections for different input f
 6.About Us:
 
 
-
-
-
+<img width="1435" alt="Screenshot 2023-06-11 at 5 32 45 PM" src="https://github.com/SurajKH/Travel-Application-built-using-SpringBoot-ReactJS-and-TailwindCSS/assets/90398336/ad55e40f-683e-4537-94aa-0183ef3dc590">
