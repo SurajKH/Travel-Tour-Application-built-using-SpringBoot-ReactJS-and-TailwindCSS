@@ -44,17 +44,6 @@ const AdminView = () => {
           navigate('/AboutUs');
 
         }
-        else if(username==admin_username && admin_password==userPassword && stateView=="AdvancedTaskVisualizer")
-        {
-          navigate('/AdvancedTaskVisualizer');
-        }
-        /*
-        '/TasksAnalytics'
-        */
-        else if(username==admin_username && admin_password==userPassword && stateView=="TasksAnalytics")
-        {
-          navigate('/TasksAnalytics');
-        }
         else{
           //  console.log("Authentication was not Successfull");
           navigate('/ErrorPage');
