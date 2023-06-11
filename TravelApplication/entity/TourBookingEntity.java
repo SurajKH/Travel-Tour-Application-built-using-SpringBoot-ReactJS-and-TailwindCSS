@@ -67,7 +67,5 @@ public class TourBookingEntity {
 
 	public void setTourmentoryoe(String tourmentoryoe) {
 		this.tourmentoryoe = tourmentoryoe;
-	}
- 
-	
+	}	
 }
